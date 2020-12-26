@@ -37,4 +37,5 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [ShapeAdv: Generating Shape-Aware Adversarial 3D Point Clouds.](https://arxiv.org/abs/2005.11626)  
   - [[Code]()]
 
-
+- [Robustness of 3D Deep Learning in an Adversarial Setting.](https://arxiv.org/abs/1904.00923)  'CVPR 2019'
+  - [[Code](https://github.com/matthewwicker/IterativeSalienceOcclusion)]
