@@ -7,7 +7,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Adversarial point perturbations on 3D objects.](https://arxiv.org/pdf/1908.06062.pdf)   
   - [[Code](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects)]
 
-- [LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud Based Deep Networks.](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.html)  
+- [LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud Based Deep Networks.](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.html)  `CVPR 2020`
   - [[Code](https://github.com/RyanHangZhou/LG-GAN)]
 
 - [On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf) 
