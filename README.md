@@ -32,7 +32,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Adversarial Autoencoders for Compact Representations of 3D Point Clouds.](https://arxiv.org/abs/1811.07605v3)  
   - [[Code](https://github.com/MaciejZamorski/3d-AAE)]
 
-- [Physically Realizable Adversarial Examples for LiDAR Object Detection.](https://arxiv.org/pdf/2004.00543.pdf)  
+- [Physically Realizable Adversarial Examples for LiDAR Object Detection.](https://arxiv.org/pdf/2004.00543.pdf) `CVPR 2020`  
 
 - [AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds.](https://arxiv.org/abs/1912.00461)  
   - [[Code](https://github.com/ajhamdi/AdvPC)]
