@@ -19,7 +19,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Adversarial Autoencoders for Generating 3D Point Clouds.](https://arxiv.org/abs/1811.07605.pdf)  
 
 - [Generating 3D Adversarial Point Clouds.](https://arxiv.org/abs/1809.07016.pdf)  
-  - [[Code](https://github.com/xiangchong1/3d-adv-pc)]
+  - [[Code](https://github.com/xiangchong1/3d-adv-pc)] `CVPR 2019`
 
 - [PU-GAN: a Point Cloud Upsampling Adversarial Network.](https://arxiv.org/pdf/1907.10844.pdf)  
   - [[Code](https://github.com/liruihui/PU-GAN)]
