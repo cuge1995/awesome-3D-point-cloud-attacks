@@ -42,3 +42,10 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Robustness of 3D Deep Learning in an Adversarial Setting.](https://arxiv.org/abs/1904.00923)  `CVPR 2019`
   - [[Code](https://github.com/matthewwicker/IterativeSalienceOcclusion)]
+
+- [Nudge Attacks on Point-Cloud DNNs.](https://arxiv.org/pdf/2011.11637)
+
+- [Generating Adversarial Surfaces via Band‐Limited Perturbations](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14083)  
+
+- [Geometry-aware generation of adversarial point clouds.](https://arxiv.org/pdf/1912.11171)  `TRAMI`
+  - [[Code](https://github.com/Yuxin-Wen/GeoA3)]
