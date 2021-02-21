@@ -13,13 +13,13 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Robust Adversarial Objects against Deep Learning Models.](https://www.aaai.org/ojs/index.php/AAAI/article/view/5443/5299)  `AAAI 2020`
   - [[Code](https://github.com/jinyier/ai_pointnet_attack)]
 
-- [On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf) 
-  - [[Code](https://github.com/skywalker6174/3d-isometry-robust)] `CVPR 2020`
+- [On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf) `CVPR 2020`
+  - [[Code](https://github.com/skywalker6174/3d-isometry-robust)] 
 
 - [Adversarial Autoencoders for Generating 3D Point Clouds.](https://arxiv.org/abs/1811.07605.pdf)  
 
-- [Generating 3D Adversarial Point Clouds.](https://arxiv.org/abs/1809.07016.pdf)  
-  - [[Code](https://github.com/xiangchong1/3d-adv-pc)] `CVPR 2019`
+- [Generating 3D Adversarial Point Clouds.](https://arxiv.org/abs/1809.07016.pdf)  `CVPR 2019`
+  - [[Code](https://github.com/xiangchong1/3d-adv-pc)] 
 
 - [PU-GAN: a Point Cloud Upsampling Adversarial Network.](https://arxiv.org/pdf/1907.10844.pdf)  
   - [[Code](https://github.com/liruihui/PU-GAN)]
