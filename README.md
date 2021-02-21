@@ -49,3 +49,5 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Geometry-aware generation of adversarial point clouds.](https://arxiv.org/pdf/1912.11171)  `TRAMI`
   - [[Code](https://github.com/Yuxin-Wen/GeoA3)]
+
+- [Efficient Joint Gradient Based Attack Against SOR Defense for 3D Point Cloud Classification.](https://dl.acm.org/doi/abs/10.1145/3394171.3413875)  `ACM MM`
