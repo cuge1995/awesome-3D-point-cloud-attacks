@@ -1,11 +1,16 @@
 # awesome-3D-point-cloud-attacks
 List of state of the art papers, code, and other resources focus on 3D point cloud attacks and defense
 
+## Attacks
+
 - [Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers.](https://arxiv.org/pdf/1901.03006.pdf) 
   - [[Code](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks)]
 
 - [Adversarial point perturbations on 3D objects.](https://arxiv.org/pdf/1908.06062.pdf)   
   - [[Code](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects)]
+
+- [PointCloud Saliency Maps.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_PointCloud_Saliency_Maps_ICCV_2019_paper.pdf)  `ICCV 2019` `drop points attack`
+  - [[Code](https://github.com/tianzheng4/Learning-PointCloud-Saliency-Maps)]
 
 - [LG-GAN: Label Guided Adversarial Network for Flexible Targeted Attack of Point Cloud Based Deep Networks.](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.html)  `CVPR 2020`
   - [[Code](https://github.com/RyanHangZhou/LG-GAN)]
@@ -25,8 +30,6 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [PU-GAN: a Point Cloud Upsampling Adversarial Network.](https://arxiv.org/pdf/1907.10844.pdf)  
   - [[Code](https://github.com/liruihui/PU-GAN)]
-
-- [DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense.](https://arxiv.org/abs/1812.11017)  `defense`
 
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions.](https://arxiv.org/pdf/1905.06292.pdf)  
   - [[Code](https://github.com/seowok/TreeGAN)]
@@ -53,3 +56,11 @@ List of state of the art papers, code, and other resources focus on 3D point clo
   - [[Code](https://github.com/Yuxin-Wen/GeoA3)]
 
 - [Efficient Joint Gradient Based Attack Against SOR Defense for 3D Point Cloud Classification.](https://dl.acm.org/doi/abs/10.1145/3394171.3413875)  `ACM MM`
+
+
+## Defenses
+
+- [DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense.](https://arxiv.org/abs/1812.11017)  
+
+- [IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration.](https://arxiv.org/pdf/2010.05272)  
+  - [[Code](https://github.com/Wuziyi616/IF-Defense)]
