@@ -1,5 +1,5 @@
 # awesome-3D-point-cloud-attacks
-List of state of the art papers, code, and other resources focus on 3D point cloud attacks
+List of state of the art papers, code, and other resources focus on 3D point cloud attacks and defense
 
 - [Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers.](https://arxiv.org/pdf/1901.03006.pdf) 
   - [[Code](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks)]
@@ -18,13 +18,13 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Adversarial Autoencoders for Generating 3D Point Clouds.](https://arxiv.org/abs/1811.07605.pdf)  
 
-- [Generating 3D Adversarial Point Clouds.](https://arxiv.org/abs/1809.07016.pdf)  `CVPR 2019`
+- [Generating 3D Adversarial Point Clouds.](https://arxiv.org/abs/1809.07016.pdf)  `CVPR 2019` `CW attack`
   - [[Code](https://github.com/xiangchong1/3d-adv-pc)] 
 
 - [PU-GAN: a Point Cloud Upsampling Adversarial Network.](https://arxiv.org/pdf/1907.10844.pdf)  
   - [[Code](https://github.com/liruihui/PU-GAN)]
 
-- [DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense.](https://arxiv.org/abs/1812.11017)  
+- [DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense.](https://arxiv.org/abs/1812.11017)  `defense`
 
 - [3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions.](https://arxiv.org/pdf/1905.06292.pdf)  
   - [[Code](https://github.com/seowok/TreeGAN)]
