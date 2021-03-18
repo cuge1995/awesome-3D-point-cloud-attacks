@@ -39,7 +39,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Physically Realizable Adversarial Examples for LiDAR Object Detection.](https://arxiv.org/pdf/2004.00543.pdf) `CVPR 2020`  
 
-- [AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds.](https://arxiv.org/abs/1912.00461)  
+- [AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds.](https://arxiv.org/abs/1912.00461)  `ECCV 2020`
   - [[Code](https://github.com/ajhamdi/AdvPC)]
 
 - [ShapeAdv: Generating Shape-Aware Adversarial 3D Point Clouds.](https://arxiv.org/abs/2005.11626)  
@@ -62,6 +62,9 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Minimal Adversarial Examples for Deep Learning on 3D Point Clouds.](https://arxiv.org/pdf/2008.12066.pdf)
 
 - [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures.](https://www.usenix.org/system/files/sec20-sun.pdf)
+
+- [Geometric Adversarial Attacks and Defenses on 3D Point Clouds.](https://arxiv.org/pdf/2012.05657)  `autoencoder attack`
+  - [[Code](https://github.com/itailang/geometric_adv)]
 
 
 
