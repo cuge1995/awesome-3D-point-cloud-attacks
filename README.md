@@ -59,9 +59,17 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Adversarial Objects Against LiDAR Based Autonomous Driving Systems.](https://arxiv.org/pdf/1907.05418.pdf)
 
+- [Minimal Adversarial Examples for Deep Learning on 3D Point Clouds.](https://arxiv.org/pdf/2008.12066.pdf)
+
+- [Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures.](https://www.usenix.org/system/files/sec20-sun.pdf)
+
+
+
 ## Defenses
 
 - [DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense.](https://arxiv.org/abs/1812.11017)  
 
 - [IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration.](https://arxiv.org/pdf/2010.05272)  
   - [[Code](https://github.com/Wuziyi616/IF-Defense)]
+
+- [PointGuard: Provably Robust 3D Point Cloud Classification.](https://arxiv.org/pdf/2103.03046.pdf)
