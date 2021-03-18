@@ -6,7 +6,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Extending Adversarial Attacks and Defenses to Deep 3D Point Cloud Classifiers.](https://arxiv.org/pdf/1901.03006.pdf) 
   - [[Code](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks)]
 
-- [Adversarial point perturbations on 3D objects.](https://arxiv.org/pdf/1908.06062.pdf)   
+- [Adversarial point perturbations on 3D objects.](https://arxiv.org/pdf/1908.06062.pdf)   `ECCV 2020`
   - [[Code](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects)]
 
 - [PointCloud Saliency Maps.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_PointCloud_Saliency_Maps_ICCV_2019_paper.pdf)  `ICCV 2019` `drop points attack`
