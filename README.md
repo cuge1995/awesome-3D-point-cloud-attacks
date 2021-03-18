@@ -57,6 +57,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Efficient Joint Gradient Based Attack Against SOR Defense for 3D Point Cloud Classification.](https://dl.acm.org/doi/abs/10.1145/3394171.3413875)  `ACM MM`
 
+- [Adversarial Objects Against LiDAR Based Autonomous Driving Systems.](https://arxiv.org/pdf/1907.05418.pdf)
 
 ## Defenses
 
