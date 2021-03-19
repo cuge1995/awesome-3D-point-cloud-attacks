@@ -68,6 +68,12 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Towards Universal Physical Attacks On Cascaded Camera-Lidar 3D Object Detection Models.](https://arxiv.org/pdf/2101.10747)
 
+- [Object Removal Attacks on LiDAR-based 3D Object Detectors.](https://arxiv.org/pdf/2102.03722)
+
+- [On the Adversarial Robustness of 3D Point Cloud Classification.](https://arxiv.org/pdf/2011.11922)
+
+- [Exploring Adversarial Robustness of Multi-Sensor Perception Systems in Self Driving.](https://arxiv.org/pdf/2101.06784)
+
 
 ## Defenses
 
@@ -77,3 +83,5 @@ List of state of the art papers, code, and other resources focus on 3D point clo
   - [[Code](https://github.com/Wuziyi616/IF-Defense)]
 
 - [PointGuard: Provably Robust 3D Point Cloud Classification.](https://arxiv.org/pdf/2103.03046.pdf)
+
+- [Defense-pointnet: Protecting pointnet against adversarial attacks.](https://arxiv.org/pdf/2002.11881)
