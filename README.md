@@ -66,6 +66,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Geometric Adversarial Attacks and Defenses on 3D Point Clouds.](https://arxiv.org/pdf/2012.05657)  `autoencoder attack`
   - [[Code](https://github.com/itailang/geometric_adv)]
 
+- [Towards Universal Physical Attacks On Cascaded Camera-Lidar 3D Object Detection Models.](https://arxiv.org/pdf/2101.10747)
 
 
 ## Defenses
