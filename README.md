@@ -74,6 +74,9 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Exploring Adversarial Robustness of Multi-Sensor Perception Systems in Self Driving.](https://arxiv.org/pdf/2101.06784)
 
+- [Fooling LiDAR Perception via Adversarial Trajectory Perturbation.](https://arxiv.org/pdf/2103.15326.pdf)
+  - [[Code](https://ai4ce.github.io/FLAT/)]
+
 
 ## Defenses
 
@@ -81,6 +84,9 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration.](https://arxiv.org/pdf/2010.05272)  
   - [[Code](https://github.com/Wuziyi616/IF-Defense)]
+
+- [PointCutMix: Regularization Strategy for Point Cloud Classification.](https://arxiv.org/abs/2101.01461.pdf)  
+  - [[Code](https://github.com/cuge1995/PointCutMix)]
 
 - [PointGuard: Provably Robust 3D Point Cloud Classification.](https://arxiv.org/pdf/2103.03046.pdf)
 
