@@ -77,6 +77,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Fooling LiDAR Perception via Adversarial Trajectory Perturbation.](https://arxiv.org/pdf/2103.15326.pdf)
   - [[Code](https://ai4ce.github.io/FLAT/)]
 
+- [PointBA: Towards Backdoor Attacks in 3D Point Cloud.](https://arxiv.org/pdf/2103.16074.pdf)
 
 ## Defenses
 
