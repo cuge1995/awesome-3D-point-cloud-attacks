@@ -81,6 +81,9 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 ## Defenses
 
+- [The art of defense: letting networks fool the attacker.](https://arxiv.org/abs/2104.02963)  
+  - [[Code](https://github.com/cuge1995/IT-Defense)]
+
 - [DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense.](https://arxiv.org/abs/1812.11017)  
 
 - [IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration.](https://arxiv.org/pdf/2010.05272)  
