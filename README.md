@@ -79,7 +79,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [PointBA: Towards Backdoor Attacks in 3D Point Cloud.](https://arxiv.org/pdf/2103.16074.pdf)
 
-- [3D Adversarial Attacks Beyond Point Cloud.](https://arxiv.org/abs/2104.12146.pdf)
+- [3D Adversarial Attacks Beyond Point Cloud.](https://arxiv.org/abs/2104.12146.pdf) `mesh attack`
   - [[Code](https://github.com/cuge1995/Mesh-Attack)]
 
 
