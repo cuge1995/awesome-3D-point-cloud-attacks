@@ -83,7 +83,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
   - [[Code](https://github.com/cuge1995/Mesh-Attack)]
 
 - [Explainability-Aware One Point Attack for Point Cloud Neural Networks.](https://arxiv.org/abs/2110.04158) `one point attack`
-  - [[Code](https://github.com/cuge1995/Mesh-Attack)]
+  - [[Code](https://github.com/Explain3D/Exp-One-Point-Atk-PC)]
 
 - [Adversarial Attack by Limited Point Cloud Surface Modifications.](https://arxiv.org/abs/2110.03745)
 
