@@ -96,6 +96,6 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [PointCutMix: Regularization Strategy for Point Cloud Classification.](https://arxiv.org/abs/2101.01461.pdf)  
   - [[Code](https://github.com/cuge1995/PointCutMix)]
 
-- [PointGuard: Provably Robust 3D Point Cloud Classification.](https://arxiv.org/pdf/2103.03046.pdf)
+- [PointGuard: Provably Robust 3D Point Cloud Classification.](https://arxiv.org/pdf/2103.03046.pdf) `CVPR 2021`
 
 - [Defense-pointnet: Protecting pointnet against adversarial attacks.](https://arxiv.org/pdf/2002.11881)
