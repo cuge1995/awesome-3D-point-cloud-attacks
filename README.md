@@ -87,6 +87,11 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Adversarial Attack by Limited Point Cloud Surface Modifications.](https://arxiv.org/abs/2110.03745)
 
+- [PointBA: Towards Backdoor Attacks in 3D Point Cloud.](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_PointBA_Towards_Backdoor_Attacks_in_3D_Point_Cloud_ICCV_2021_paper.pdf) `ICCV 2021`
+
+- [A Backdoor Attack Against 3D Point Cloud Classifiers.](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_A_Backdoor_Attack_Against_3D_Point_Cloud_Classifiers_ICCV_2021_paper.pdf) `ICCV 2021`
+ 
+ 
 ## Defenses
 
 - [The art of defense: letting networks fool the attacker.](https://arxiv.org/abs/2104.02963)  
