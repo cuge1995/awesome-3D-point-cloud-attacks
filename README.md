@@ -94,6 +94,11 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Generating Unrestricted 3D Adversarial Point Clouds.](https://arxiv.org/pdf/2111.08973.pdf)
 
+- [Local Aggressive Adversarial Attack of 3D point Cloud.](https://arxiv.org/pdf/2105.09090.pdf) `ACML oral`
+  - [[Code](https://github.com/Chenfeng1271/L3A)]
+
+
+
 ## Defenses
 
 - [The art of defense: letting networks fool the attacker.](https://arxiv.org/abs/2104.02963)  
