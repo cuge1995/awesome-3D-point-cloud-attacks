@@ -97,6 +97,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Local Aggressive Adversarial Attack of 3D point Cloud.](https://arxiv.org/pdf/2105.09090.pdf) `ACML oral`
   - [[Code](https://github.com/Chenfeng1271/L3A)]
 
+- [Imperceptible Transfer Attack and Defense on 3D Point Cloud Classification.](https://arxiv.org/pdf/2111.10990.pdf)
 
 
 ## Defenses
