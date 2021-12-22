@@ -99,6 +99,7 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Imperceptible Transfer Attack and Defense on 3D Point Cloud Classification.](https://arxiv.org/pdf/2111.10990.pdf)
 
+- [Attacking Point Cloud Segmentation with Color-only Perturbation](https://arxiv.org/pdf/2112.05871.pdf) `segmentation`
 
 ## Defenses
 
