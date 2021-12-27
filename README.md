@@ -101,6 +101,8 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Attacking Point Cloud Segmentation with Color-only Perturbation](https://arxiv.org/pdf/2112.05871.pdf) `segmentation`
 
+- [Dynamics-aware Adversarial Attack of 3D Sparse Convolution Network](https://arxiv.org/pdf/2112.09428.pdf) `segmentation`
+
 ## Defenses
 
 - [The art of defense: letting networks fool the attacker.](https://arxiv.org/abs/2104.02963)  
