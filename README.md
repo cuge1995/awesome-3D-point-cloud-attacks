@@ -121,3 +121,6 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [PointGuard: Provably Robust 3D Point Cloud Classification.](https://arxiv.org/pdf/2103.03046.pdf) `CVPR 2021`
 
 - [Defense-pointnet: Protecting pointnet against adversarial attacks.](https://arxiv.org/pdf/2002.11881)
+
+- [LPF-Defense: 3D Adversarial Defense based on Frequency Analysis.](https://arxiv.org/pdf/2202.11287.pdf)  
+  - [[Code](https://github.com/kimianoorbakhsh/LPF-Defence)]
