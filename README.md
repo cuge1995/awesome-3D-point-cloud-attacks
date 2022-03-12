@@ -105,6 +105,9 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Boosting 3D Adversarial Attacks with Attacking On Frequency](https://arxiv.org/pdf/2201.10937) `AOF attack`
 
+- [Shape-invariant 3D Adversarial Point Clouds.](https://arxiv.org/pdf/2203.04041.pdf) `CVPR 2022`
+  - [[Code](https://github.com/shikiw/SI-Adv)]
+
 ## Defenses
 
 - [The art of defense: letting networks fool the attacker.](https://arxiv.org/abs/2104.02963)  
