@@ -127,3 +127,5 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [LPF-Defense: 3D Adversarial Defense based on Frequency Analysis.](https://arxiv.org/pdf/2202.11287.pdf)  
   - [[Code](https://github.com/kimianoorbakhsh/LPF-Defence)]
+
+- [Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks with Implicit Gradients.](https://arxiv.org/pdf/2203.15245.pdf)
