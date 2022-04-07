@@ -108,7 +108,6 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Shape-invariant 3D Adversarial Point Clouds.](https://arxiv.org/pdf/2203.04041.pdf) `CVPR 2022`
   - [[Code](https://github.com/shikiw/SI-Adv)]
 
-- [Dynamics-aware Adversarial Attack of 3D Sparse Convolution Network](https://arxiv.org/pdf/2112.09428.pdf) `segmentation`
 
 ## Defenses
 
