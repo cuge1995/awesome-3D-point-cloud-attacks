@@ -103,6 +103,9 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Dynamics-aware Adversarial Attack of 3D Sparse Convolution Network](https://arxiv.org/pdf/2112.09428.pdf) `segmentation`
 
+- [Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks.](https://arxiv.org/abs/2106.09249) `IEEE S&P`
+  - [[Code](https://github.com/ASGuard-UCI/MSF-ADV)]
+
 - [Boosting 3D Adversarial Attacks with Attacking On Frequency](https://arxiv.org/pdf/2201.10937) `AOF attack`
   - [[Code](https://github.com/code-roamer/AOF)]
 
