@@ -113,6 +113,11 @@ List of state of the art papers, code, and other resources focus on 3D point clo
   - [[Code](https://github.com/shikiw/SI-Adv)]
 
 
+- [Shape Prior Guided Attack: Sparser Perturbations on 3D Point Clouds]() `AAAI 2022`
+
+- [Improving transferability of 3D adversarial attacks with scale and shear transformations]() `SS attack`
+
+
 ## Defenses
 
 - [The art of defense: letting networks fool the attacker.](https://arxiv.org/abs/2104.02963)  
