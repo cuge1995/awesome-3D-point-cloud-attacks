@@ -142,3 +142,4 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 - [Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks with Implicit Gradients.](https://arxiv.org/pdf/2203.15245.pdf) `CVPR 2022`
 
 - [Improving Adversarial Robustness of 3D Point Cloud Classification Models](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640663.pdf) `ECCV 2022`
+  -[[Code](https://github.com/GuanlinLee/CCNAMS)]
