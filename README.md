@@ -119,6 +119,8 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Isometric 3D Adversarial Examples in the Physical World] `NeurIPS 2022`
 
+- [Rethinking Perturbation Directions for Imperceptible Adversarial Attacks on Point Clouds] `IEEE Internet of Things Journal`
+
 ## Defenses
 
 - [The art of defense: letting networks fool the attacker.](https://arxiv.org/abs/2104.02963)  
