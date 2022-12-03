@@ -145,3 +145,5 @@ List of state of the art papers, code, and other resources focus on 3D point clo
 
 - [Improving Adversarial Robustness of 3D Point Cloud Classification Models](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640663.pdf) `ECCV 2022`
   - [[Code](https://github.com/GuanlinLee/CCNAMS)]
+
+- [Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion](https://arxiv.org/pdf/2211.16247.pdf)
